@@ -10,5 +10,8 @@
 
 ![image](https://github.com/gautam2000/Wine-Reviews-Data-EDA-Project/assets/32203981/e2569932-9cba-4e82-b653-e74f526a5a31)
 
+![image](https://github.com/gautam2000/Wine-Reviews-Data-EDA-Project/assets/32203981/584eb5b8-d0a1-4660-a1b2-5f3e1288cebe)
+
+![image](https://github.com/gautam2000/Wine-Reviews-Data-EDA-Project/assets/32203981/c336961c-677b-40de-a570-90bbfecd90b6)
 
 
