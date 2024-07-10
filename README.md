@@ -1,4 +1,23 @@
-**Analysis of The Wine Reviews data with Python and Data Visualization**
+# EDA Analysis of The Wine Reviews Data with Python**
+
+![image](https://github.com/gautam2000/Wine-Reviews-Data-EDA-Project/assets/32203981/5cf116b4-b4b1-4956-9bd6-312b9fac32a5)
+
+
+
+### Project Data :
+Doing EDA on a Wine-reviews Dataset from Kaggle.
+Kaggle Dataset Link : https://www.kaggle.com/zynicide/wine-reviews
+
+Content:
+
+This dataset contains three files:
+
+winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.
+
+winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.
+
+winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
+
 
 ![image](https://github.com/gautam2000/Wine-Reviews-Data-EDA-Project/assets/32203981/9e7d4ba1-3989-4553-9c5f-f4235eaebe02)
 
