@@ -5,7 +5,7 @@
 
 
 ### Project Data :
-Doing EDA on a Wine-reviews Dataset from Kaggle.
+Doing EDA on a Wine-reviews Dataset from Kaggle
 Kaggle Dataset Link : https://www.kaggle.com/zynicide/wine-reviews
 
 Content:
